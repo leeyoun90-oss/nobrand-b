@@ -1,15 +1,65 @@
 {
-  "updatedAt": "2026-11-21T17:34:22+09:00",
-  "since": "2026-11-14",
+  "updatedAt": "2026-11-22T08:46:48+09:00",
+  "since": "2026-11-15",
   "sources": {
-    "OpenAI": "33건",
+    "OpenAI": "32건",
     "Google DeepMind": "2건",
-    "Hugging Face": "10건",
+    "Hugging Face": "8건",
     "TLDR AI": "5건",
-    "GitHub": "33건"
+    "GitHub": "35건"
   },
-  "count": 83,
+  "count": 94,
   "items": [
+    {
+      "id": "github-318c5b9977",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "praseesh369/youtube-ai-video-editing-system",
+      "url": "https://github.com/praseesh369/youtube-ai-video-editing-system",
+      "published": "2026-11-22",
+      "tag": "개발 도구",
+      "description": "Storyboard, capture, and animate: an AI editing workflow for YouTube",
+      "stars": 82,
+      "language": "HTML",
+      "topics": [
+        "ai-agents",
+        "ai-video-editing",
+        "animation",
+        "claude-design",
+        "design",
+        "motion-graphics",
+        "open-source",
+        "teleprompter"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-22T08:46:48+09:00"
+    },
+    {
+      "id": "github-361586e9a0",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "w01fb0ss/PiBot",
+      "url": "https://github.com/w01fb0ss/PiBot",
+      "published": "2026-11-21",
+      "tag": "개발 도구",
+      "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+      "stars": 165,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai-agent",
+        "ai-agents",
+        "ai-assistant",
+        "android",
+        "automation",
+        "chatgpt",
+        "coding-agent"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-22T08:46:48+09:00"
+    },
     {
       "id": "github-778070a647",
       "source": "GitHub",
@@ -20,7 +70,7 @@
       "published": "2026-11-21",
       "tag": "개발 도구",
       "description": "A friendly, feature-rich workspace built with and for its community.",
-      "stars": 153,
+      "stars": 151,
       "language": "JavaScript",
       "topics": [
         "ai-agents",
@@ -36,6 +86,53 @@
       "collectedAt": "2026-11-21T17:33:39+09:00"
     },
     {
+      "id": "github-3400785e00",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "published": "2026-11-21",
+      "tag": "개발 도구",
+      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "stars": 68,
+      "language": "Rust",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "codex",
+        "developer-tools",
+        "ffi",
+        "mcp"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-22T08:46:48+09:00"
+    },
+    {
+      "id": "github-ddd7c633c9",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "bluesky-social/diderot",
+      "url": "https://github.com/bluesky-social/diderot",
+      "published": "2026-11-21",
+      "tag": "개발 도구",
+      "description": "Search and ask across your organization's knowledge: Slack, coding-agent sessions, docs and tickets. Self-hosted.",
+      "stars": 40,
+      "language": "Go",
+      "topics": [
+        "coding-agents",
+        "mcp",
+        "rag",
+        "self-hosted",
+        "slack"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-22T08:46:48+09:00"
+    },
+    {
       "id": "github-e172218020",
       "source": "GitHub",
       "sourceKey": "github",
@@ -45,7 +142,7 @@
       "published": "2026-11-20",
       "tag": "AI 모델",
       "description": "Chat with private AI models locally, powered by Open Webui Private Ai Desk.",
-      "stars": 153,
+      "stars": 151,
       "language": "TypeScript",
       "topics": [
         "chat-interface",
@@ -70,7 +167,7 @@
       "published": "2026-11-20",
       "tag": "개발 도구",
       "description": "Document-grounded chat for Verona - AnythingLLM workspace integration.",
-      "stars": 151,
+      "stars": 149,
       "language": "Python",
       "topics": [
         "agentic-ai",
@@ -84,6 +181,77 @@
       ],
       "status": "검수 대기",
       "collectedAt": "2026-11-21T17:33:39+09:00"
+    },
+    {
+      "id": "github-e24e1be6f6",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "nestjs/agent-skills",
+      "url": "https://github.com/nestjs/agent-skills",
+      "published": "2026-11-20",
+      "tag": "개발 도구",
+      "description": "Agent skills for Nest framework (node.js) 🕵️‍♂️",
+      "stars": 133,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "codex",
+        "coding-agents",
+        "cursor",
+        "nest"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-22T08:46:48+09:00"
+    },
+    {
+      "id": "github-48cd0f5279",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "AI4XE/ai4ai",
+      "url": "https://github.com/AI4XE/ai4ai",
+      "published": "2026-11-20",
+      "tag": "개발 도구",
+      "description": "Let AI manage itself — a cross-harness kit for runtime status, context renewal, self-duplication and more",
+      "stars": 132,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ai-harness",
+        "claude-code",
+        "codex",
+        "context-managment",
+        "deepseek-harness",
+        "dsh-plugin"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-22T08:46:48+09:00"
+    },
+    {
+      "id": "github-2f118ca479",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "krispuckett/rounds",
+      "url": "https://github.com/krispuckett/rounds",
+      "published": "2026-11-20",
+      "tag": "개발 도구",
+      "description": "A local canvas of everything your Claude Code sessions make.",
+      "stars": 68,
+      "language": "JavaScript",
+      "topics": [
+        "canvas",
+        "claude-code",
+        "design",
+        "mcp"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-22T08:46:48+09:00"
     },
     {
       "id": "openai-3ea993db7e",
@@ -167,7 +335,7 @@
       "published": "2026-11-19",
       "tag": "개발 도구",
       "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
-      "stars": 1880,
+      "stars": 2361,
       "language": null,
       "topics": [
         "ai-agents",
@@ -192,7 +360,7 @@
       "published": "2026-11-19",
       "tag": "개발 도구",
       "description": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
-      "stars": 214,
+      "stars": 251,
       "language": "TypeScript",
       "topics": [
         "ai-coding",
@@ -217,7 +385,7 @@
       "published": "2026-11-19",
       "tag": "개발 도구",
       "description": "Autonomous airdrop operator: identities, wallets, socials, testnets, quests, radar — guarded CLI + MCP",
-      "stars": 94,
+      "stars": 96,
       "language": "Python",
       "topics": [
         "airdrop",
@@ -374,7 +542,7 @@
       "published": "2026-11-18",
       "tag": "AI 모델",
       "description": "A modular desktop workspace for configuring and running local AI models.",
-      "stars": 152,
+      "stars": 150,
       "language": "Dockerfile",
       "topics": [
         "automation",
@@ -399,7 +567,7 @@
       "published": "2026-11-18",
       "tag": "개발 도구",
       "description": "Streamlined workspace for organizing and running AI workflows in one place.",
-      "stars": 152,
+      "stars": 150,
       "language": "TypeScript",
       "topics": [
         "chat",
@@ -581,7 +749,7 @@
       "published": "2026-11-17",
       "tag": "개발 도구",
       "description": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-      "stars": 1389,
+      "stars": 1615,
       "language": "Python",
       "topics": [
         "agent-skill",
@@ -604,7 +772,7 @@
       "published": "2026-11-17",
       "tag": "개발 도구",
       "description": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
-      "stars": 756,
+      "stars": 772,
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -620,6 +788,31 @@
       "collectedAt": "2026-11-21T17:33:39+09:00"
     },
     {
+      "id": "github-b9d9f066ce",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "JimLiu/open-artifact",
+      "url": "https://github.com/JimLiu/open-artifact",
+      "published": "2026-11-17",
+      "tag": "개발 도구",
+      "description": "Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards, docs, and motion.",
+      "stars": 140,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "artifacts",
+        "claude-artifacts",
+        "claude-code",
+        "claude-design",
+        "codex",
+        "coding-agent"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-22T08:46:48+09:00"
+    },
+    {
       "id": "github-5c555fbf17",
       "source": "GitHub",
       "sourceKey": "github",
@@ -629,7 +822,7 @@
       "published": "2026-11-17",
       "tag": "개발 도구",
       "description": "Open-source, self-hosted Deployment Platform. Deploy from Git to your own server with one command.",
-      "stars": 113,
+      "stars": 117,
       "language": "TypeScript",
       "topics": [
         "deployment",
@@ -654,7 +847,7 @@
       "published": "2026-11-17",
       "tag": "개발 도구",
       "description": "A high-performance MySQL-compatible database for HTAP and AI agents  Mixed transactional and analytical workloads, with native AI retrieval.",
-      "stars": 84,
+      "stars": 88,
       "language": "Rust",
       "topics": [
         "agent",
@@ -677,7 +870,7 @@
       "published": "2026-11-17",
       "tag": "개발 도구",
       "description": "MCP server for temporary email & SMS — receive OTPs, verification links, and confirmation codes. Zero API keys required.",
-      "stars": 72,
+      "stars": 75,
       "language": "Python",
       "topics": [
         "ai-tools",
@@ -691,6 +884,53 @@
       ],
       "status": "검수 대기",
       "collectedAt": "2026-11-21T17:33:39+09:00"
+    },
+    {
+      "id": "github-b9620ef989",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "trydirex/direx",
+      "url": "https://github.com/trydirex/direx",
+      "published": "2026-11-17",
+      "tag": "개발 도구",
+      "description": "Open-source marketing workspace: business context, a marketing plan and campaigns across channels. It only sends what a person approved.",
+      "stars": 64,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "bun",
+        "cold-email",
+        "email-outreach",
+        "marketing",
+        "marketing-automation",
+        "open-source",
+        "postgres"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-22T08:46:48+09:00"
+    },
+    {
+      "id": "github-1f4e70aa88",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "hovocope135-tech/DSH-projects",
+      "url": "https://github.com/hovocope135-tech/DSH-projects",
+      "published": "2026-11-17",
+      "tag": "개발 도구",
+      "description": "探索人与 AI 的最佳协作方式 · Exploring the best way for people and AI to work together. DSH-projects is an open-source plugin for DeepSeek Harness: state a goal in one sentence, it asks what is unclear, runs the tasks in parallel, and brings finished work back to you.",
+      "stars": 63,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "context-engineering",
+        "deepseek-harness",
+        "task-management"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-22T08:46:48+09:00"
     },
     {
       "id": "github-97b4721eef",
@@ -811,7 +1051,7 @@
       "published": "2026-11-16",
       "tag": "개발 도구",
       "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
-      "stars": 6910,
+      "stars": 7397,
       "language": "Rust",
       "topics": [
         "agent-skills",
@@ -836,7 +1076,7 @@
       "published": "2026-11-16",
       "tag": "개발 도구",
       "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
-      "stars": 474,
+      "stars": 471,
       "language": "Makefile",
       "topics": [
         "ai",
@@ -861,7 +1101,7 @@
       "published": "2026-11-16",
       "tag": "개발 도구",
       "description": "Run multiple Claude Desktop accounts at the same time on Mac: separate sign-ins, custom icons, one shared Claude Code setup, and sessions that message each other across accounts. brew install jackson-cmd/tap/claude-multi-desktop",
-      "stars": 236,
+      "stars": 264,
       "language": "HTML",
       "topics": [
         "account-switcher",
@@ -961,7 +1201,7 @@
       "published": "2026-11-16",
       "tag": "개발 도구",
       "description": "Find and safely free the disk space your dev work eats: builds, caches, simulators and agent worktrees. macOS menu bar app, CLI and MCP server.",
-      "stars": 82,
+      "stars": 92,
       "language": "Rust",
       "topics": [
         "claude-code",
@@ -986,7 +1226,7 @@
       "published": "2026-11-16",
       "tag": "개발 도구",
       "description": "Evidence-grounded multimodal RAG for industrial maintenance documentation, with hybrid retrieval, citations, conflict resolution, claim verification and abstention. Includes an optional tool-using LLM agent and deterministic offline mode.",
-      "stars": 71,
+      "stars": 72,
       "language": "Python",
       "topics": [
         "document-processing",
@@ -1036,7 +1276,7 @@
       "published": "2026-11-16",
       "tag": "개발 도구",
       "description": "基于 Agentic RAG 的企业级智能知识库：混合检索 + Reranker + LangGraph Agent + SSE 流式问答",
-      "stars": 35,
+      "stars": 38,
       "language": "Python",
       "topics": [
         "fastapi",
@@ -1267,6 +1507,31 @@
       ],
       "status": "검수 대기",
       "collectedAt": "2026-11-21T17:33:39+09:00"
+    },
+    {
+      "id": "github-333a9a9a9f",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "AI4XE/Parallax",
+      "url": "https://github.com/AI4XE/Parallax",
+      "published": "2026-11-15",
+      "tag": "개발 도구",
+      "description": "A lightweight workflow plugin for hands-off AI coding with DeepSeek Harness, Claude Code, GitHub Copilot, and more.",
+      "stars": 136,
+      "language": "Python",
+      "topics": [
+        "agent-orchestration",
+        "ai-agents",
+        "ai-coding",
+        "ai4e",
+        "ai4xe",
+        "claude-code",
+        "deepseek",
+        "deepseek-harness"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-22T08:46:48+09:00"
     },
     {
       "id": "github-1038f93149",
