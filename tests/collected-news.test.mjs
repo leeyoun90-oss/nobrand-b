@@ -1,6 +1,6 @@
 import fs from 'node:fs';import vm from 'node:vm';import assert from 'node:assert/strict';import {execFileSync} from 'node:child_process';
-const path='hackathon/트민두AI_프로토타입.html',html=fs.readFileSync(path,'utf8'),original=execFileSync('git',['show','HEAD:'+path],{encoding:'utf8',maxBuffer:8*1024*1024});
-assert.equal(html,fs.readFileSync('index.html','utf8'));
+const path='hackathon/트민두AI_프로토타입.html',html=fs.readFileSync(path,'utf8').replace(/\r\n/g,'\n'),original=execFileSync('git',['show','HEAD:'+path],{encoding:'utf8',maxBuffer:8*1024*1024}).replace(/\r\n/g,'\n');
+assert.equal(html,fs.readFileSync('index.html','utf8').replace(/\r\n/g,'\n'));
 const avatar=h=>h.match(/const AVATAR_IMAGES=([\s\S]*?);\s*function picture/)[0];assert.equal(avatar(html),avatar(original));
 const scripts=h=>[...h.matchAll(/<script\b[^>]*>([\s\S]*?)<\/script>/gi)].map(m=>m[1]);for(const s of scripts(html))new vm.Script(s);
 for(let i=0;i<4;i++)assert.equal(scripts(html)[i],scripts(original)[i],'Learning library/core scripts remain unchanged');
