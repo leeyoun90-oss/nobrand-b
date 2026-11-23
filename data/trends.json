@@ -1,15 +1,212 @@
 {
-  "updatedAt": "2026-11-23T08:50:23+09:00",
-  "since": "2026-11-16",
+  "updatedAt": "2026-11-24T08:56:44+09:00",
+  "since": "2026-11-17",
   "sources": {
-    "OpenAI": "33건",
+    "OpenAI": "26건",
     "Google DeepMind": "실패 (ParseError: not well-formed (invalid token): line 1, column 0)",
-    "Hugging Face": "8건",
+    "Hugging Face": "9건",
     "TLDR AI": "5건",
-    "GitHub": "44건"
+    "GitHub": "41건"
   },
-  "count": 108,
+  "count": 133,
   "items": [
+    {
+      "id": "github-2f1d66e8fb",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "TekihiXac52/unfiltered-ai-chat",
+      "url": "https://github.com/TekihiXac52/unfiltered-ai-chat",
+      "published": "2026-11-24",
+      "tag": "개발 도구",
+      "description": "Local unfiltered AI chat — your machine, your rules.",
+      "stars": 66,
+      "language": "C++",
+      "topics": [
+        "automation",
+        "chat",
+        "cli",
+        "cpp",
+        "developer-tools",
+        "llm",
+        "local",
+        "open-source"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-24T08:56:44+09:00"
+    },
+    {
+      "id": "github-2a3af45275",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "Karimk899/free-llm-router",
+      "url": "https://github.com/Karimk899/free-llm-router",
+      "published": "2026-11-24",
+      "tag": "개발 도구",
+      "description": "Route every request to a free provider.",
+      "stars": 65,
+      "language": "C++",
+      "topics": [
+        "automation",
+        "cli",
+        "cpp",
+        "developer-tools",
+        "fallback",
+        "free",
+        "llm",
+        "open-source"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-24T08:56:44+09:00"
+    },
+    {
+      "id": "github-438f9c3901",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "ThaoYou30020/llm-router-free",
+      "url": "https://github.com/ThaoYou30020/llm-router-free",
+      "published": "2026-11-24",
+      "tag": "개발 도구",
+      "description": "One API key, 15+ free providers, automatic fallback.",
+      "stars": 62,
+      "language": "C++",
+      "topics": [
+        "automation",
+        "cli",
+        "cpp",
+        "developer-tools",
+        "fallback",
+        "free",
+        "llm",
+        "open-source"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-24T08:56:44+09:00"
+    },
+    {
+      "id": "github-29ba370d97",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "aSimmons5907/key-pool-rotator",
+      "url": "https://github.com/aSimmons5907/key-pool-rotator",
+      "published": "2026-11-24",
+      "tag": "개발 도구",
+      "description": "Pool your free-tier LLM keys, kill the 429s.",
+      "stars": 48,
+      "language": "C++",
+      "topics": [
+        "anthropic",
+        "api",
+        "automation",
+        "cli",
+        "cpp",
+        "developer-tools",
+        "free-tier",
+        "gemini"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-24T08:56:44+09:00"
+    },
+    {
+      "id": "openai-1d0c151fef",
+      "source": "OpenAI",
+      "sourceKey": "openai",
+      "sourceType": "AI 기업 블로그",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "published": "2026-11-24",
+      "tag": "AI 활용",
+      "status": "검수 대기",
+      "collectedAt": "2026-11-24T08:56:44+09:00"
+    },
+    {
+      "id": "hf-ca38829e73",
+      "source": "Hugging Face",
+      "sourceKey": "hf",
+      "sourceType": "AI 기업 블로그",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "published": "2026-11-24",
+      "tag": "AI 활용",
+      "status": "검수 대기",
+      "collectedAt": "2026-11-24T08:56:44+09:00"
+    },
+    {
+      "id": "github-b0d71194e0",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "erkamyaman/safe-anything",
+      "url": "https://github.com/erkamyaman/safe-anything",
+      "published": "2026-11-23",
+      "tag": "개발 도구",
+      "description": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
+      "stars": 484,
+      "language": "Rust",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "cli",
+        "codex",
+        "cursor",
+        "devsecops",
+        "mcp"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-24T08:56:44+09:00"
+    },
+    {
+      "id": "openai-f8a4e02f42",
+      "source": "OpenAI",
+      "sourceKey": "openai",
+      "sourceType": "AI 기업 블로그",
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "published": "2026-11-23",
+      "tag": "AI 활용",
+      "status": "검수 대기",
+      "collectedAt": "2026-11-24T08:56:44+09:00"
+    },
+    {
+      "id": "openai-680b35173b",
+      "source": "OpenAI",
+      "sourceKey": "openai",
+      "sourceType": "AI 기업 블로그",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "published": "2026-11-23",
+      "tag": "AI 활용",
+      "status": "검수 대기",
+      "collectedAt": "2026-11-24T08:56:44+09:00"
+    },
+    {
+      "id": "hf-6fd4c32fe3",
+      "source": "Hugging Face",
+      "sourceKey": "hf",
+      "sourceType": "AI 기업 블로그",
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "published": "2026-11-23",
+      "tag": "개발 도구",
+      "status": "검수 대기",
+      "collectedAt": "2026-11-24T08:56:44+09:00"
+    },
+    {
+      "id": "tldr-6a33865deb",
+      "source": "TLDR AI",
+      "sourceKey": "tldr",
+      "sourceType": "뉴스레터",
+      "title": "OpenAI publishes progress 🧠, Inkling 2 Mini 💧, Riemann proof 📐",
+      "url": "https://tldr.tech/ai/2026-11-23",
+      "published": "2026-11-23",
+      "tag": "AI 활용",
+      "status": "검수 대기",
+      "collectedAt": "2026-11-24T08:56:44+09:00"
+    },
     {
       "id": "github-218ec20918",
       "source": "GitHub",
@@ -95,7 +292,7 @@
       "published": "2026-11-22",
       "tag": "개발 도구",
       "description": "Storyboard, capture, and animate: an AI editing workflow for YouTube",
-      "stars": 337,
+      "stars": 338,
       "language": "HTML",
       "topics": [
         "ai-agents",
@@ -109,6 +306,55 @@
       ],
       "status": "검수 대기",
       "collectedAt": "2026-11-22T08:46:48+09:00"
+    },
+    {
+      "id": "github-a306cf002b",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "qianyiai/kurocat",
+      "url": "https://github.com/qianyiai/kurocat",
+      "published": "2026-11-22",
+      "tag": "개발 도구",
+      "description": "KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）",
+      "stars": 311,
+      "language": "TypeScript",
+      "topics": [
+        "android",
+        "bongo-cat",
+        "bongocat",
+        "cross-platform",
+        "desktop-pet",
+        "keyboard-visualizer",
+        "kurocat",
+        "linux"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-24T08:56:44+09:00"
+    },
+    {
+      "id": "github-edf73d9048",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "deeeeone/Anvil",
+      "url": "https://github.com/deeeeone/Anvil",
+      "published": "2026-11-22",
+      "tag": "개발 도구",
+      "description": "A native macOS coding agent that works with almost any model: diffs, checkpoints, sub-sessions, browser and iOS Simulator tools.",
+      "stars": 45,
+      "language": "Swift",
+      "topics": [
+        "ai",
+        "coding-agent",
+        "developer-tools",
+        "llm",
+        "macos",
+        "swift",
+        "swiftui"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-24T08:56:44+09:00"
     },
     {
       "id": "openai-de5cd1a6d5",
@@ -132,7 +378,7 @@
       "published": "2026-11-21",
       "tag": "개발 도구",
       "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
-      "stars": 1859,
+      "stars": 3109,
       "language": "Rust",
       "topics": [
         "agent-skills",
@@ -157,7 +403,7 @@
       "published": "2026-11-21",
       "tag": "개발 도구",
       "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
-      "stars": 371,
+      "stars": 499,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -248,6 +494,31 @@
       "collectedAt": "2026-11-21T17:33:39+09:00"
     },
     {
+      "id": "github-54d1d6a0fc",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "w1ccc/sap-data-mcp",
+      "url": "https://github.com/w1ccc/sap-data-mcp",
+      "published": "2026-11-21",
+      "tag": "개발 도구",
+      "description": "Read-only MCP servers that let AI assistants query SAP S/4HANA through RFC/BAPI, private-cloud OData and public-cloud released APIs. Every call audited; credentials stay local.",
+      "stars": 91,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "bapi",
+        "erp",
+        "llm",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "odata"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-24T08:56:44+09:00"
+    },
+    {
       "id": "github-ddd7c633c9",
       "source": "GitHub",
       "sourceKey": "github",
@@ -257,7 +528,7 @@
       "published": "2026-11-21",
       "tag": "개발 도구",
       "description": "Search and ask across your organization's knowledge: Slack, coding-agent sessions, docs and tickets. Self-hosted.",
-      "stars": 48,
+      "stars": 50,
       "language": "Go",
       "topics": [
         "coding-agents",
@@ -279,7 +550,7 @@
       "published": "2026-11-20",
       "tag": "개발 도구",
       "description": "A training engine for your local model, using your idle compute",
-      "stars": 217,
+      "stars": 300,
       "language": "Python",
       "topics": [
         "coding-agents",
@@ -292,6 +563,54 @@
       ],
       "status": "검수 대기",
       "collectedAt": "2026-11-23T08:50:23+09:00"
+    },
+    {
+      "id": "github-e24e1be6f6",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "nestjs/agent-skills",
+      "url": "https://github.com/nestjs/agent-skills",
+      "published": "2026-11-20",
+      "tag": "개발 도구",
+      "description": "Agent skills for Nest framework (node.js) 🕵️‍♂️",
+      "stars": 155,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "codex",
+        "coding-agents",
+        "cursor",
+        "nest"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-22T08:46:48+09:00"
+    },
+    {
+      "id": "github-d84a827a27",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "LIUFelix2004/dsh-workbuddy",
+      "url": "https://github.com/LIUFelix2004/dsh-workbuddy",
+      "published": "2026-11-20",
+      "tag": "개발 도구",
+      "description": "Import WorkBuddy accounts into DeepSeek Harness as model providers: one route per account, full model list, per-account credit balance, and an automatic workaround for the gateway 11128 channel check.",
+      "stars": 152,
+      "language": "JavaScript",
+      "topics": [
+        "codebuddy",
+        "deepseek-harness",
+        "dsh-plugin",
+        "llm",
+        "provider",
+        "workbuddy"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-24T08:56:44+09:00"
     },
     {
       "id": "github-e172218020",
@@ -394,31 +713,6 @@
       "collectedAt": "2026-11-21T17:33:39+09:00"
     },
     {
-      "id": "github-e24e1be6f6",
-      "source": "GitHub",
-      "sourceKey": "github",
-      "sourceType": "GitHub 인기 저장소",
-      "title": "nestjs/agent-skills",
-      "url": "https://github.com/nestjs/agent-skills",
-      "published": "2026-11-20",
-      "tag": "개발 도구",
-      "description": "Agent skills for Nest framework (node.js) 🕵️‍♂️",
-      "stars": 145,
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude-code",
-        "claude-code-plugin",
-        "codex",
-        "coding-agents",
-        "cursor",
-        "nest"
-      ],
-      "status": "검수 대기",
-      "collectedAt": "2026-11-22T08:46:48+09:00"
-    },
-    {
       "id": "github-48cd0f5279",
       "source": "GitHub",
       "sourceKey": "github",
@@ -428,7 +722,7 @@
       "published": "2026-11-20",
       "tag": "개발 도구",
       "description": "Let AI manage itself — a cross-harness kit for runtime status, context renewal, self-duplication and more",
-      "stars": 133,
+      "stars": 134,
       "language": "TypeScript",
       "topics": [
         "agent-skills",
@@ -444,25 +738,28 @@
       "collectedAt": "2026-11-22T08:46:48+09:00"
     },
     {
-      "id": "github-2f118ca479",
+      "id": "github-aea335c0d7",
       "source": "GitHub",
       "sourceKey": "github",
       "sourceType": "GitHub 인기 저장소",
-      "title": "krispuckett/rounds",
-      "url": "https://github.com/krispuckett/rounds",
+      "title": "zou172866/agy-dart",
+      "url": "https://github.com/zou172866/agy-dart",
       "published": "2026-11-20",
       "tag": "개발 도구",
-      "description": "A local canvas of everything your Claude Code sessions make.",
-      "stars": 78,
+      "description": "Google Antigravity plugin that improves cache hits, keeps cache warm automatically, protects context quota, shows live context usage, rescues crashed sessions, and saves tokens.",
+      "stars": 99,
       "language": "JavaScript",
       "topics": [
-        "canvas",
-        "claude-code",
-        "design",
-        "mcp"
+        "antigravity",
+        "antigravity-plugin",
+        "context-window",
+        "fts5",
+        "mcp",
+        "performance",
+        "ripgrep"
       ],
       "status": "검수 대기",
-      "collectedAt": "2026-11-22T08:46:48+09:00"
+      "collectedAt": "2026-11-24T08:56:44+09:00"
     },
     {
       "id": "github-510ba3d15f",
@@ -474,7 +771,7 @@
       "published": "2026-11-20",
       "tag": "개발 도구",
       "description": "AI-assisted game analysis and reconstruction, working toward one-click workflows for any game.",
-      "stars": 68,
+      "stars": 93,
       "language": null,
       "topics": [
         "agent-skills",
@@ -486,6 +783,52 @@
       ],
       "status": "검수 대기",
       "collectedAt": "2026-11-23T08:50:23+09:00"
+    },
+    {
+      "id": "github-2f118ca479",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "krispuckett/rounds",
+      "url": "https://github.com/krispuckett/rounds",
+      "published": "2026-11-20",
+      "tag": "개발 도구",
+      "description": "A local canvas of everything your Claude Code sessions make.",
+      "stars": 82,
+      "language": "JavaScript",
+      "topics": [
+        "canvas",
+        "claude-code",
+        "design",
+        "mcp"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-22T08:46:48+09:00"
+    },
+    {
+      "id": "github-02a20ec089",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "byttrade/free-crypto-trading-bot",
+      "url": "https://github.com/byttrade/free-crypto-trading-bot",
+      "published": "2026-11-20",
+      "tag": "개발 도구",
+      "description": "Free crypto trading bot by BYTtrade: 4 backtested 4h trend-following strategies for perpetual futures, reproducible backtest, web panel, 11 exchanges, AI-agent API. Demo first. High risk.",
+      "stars": 60,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "algorithmic-trading",
+        "backtesting",
+        "binance",
+        "bitget",
+        "bybit",
+        "claude",
+        "crypto-trading-bot"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-24T08:56:44+09:00"
     },
     {
       "id": "openai-3ea993db7e",
@@ -594,7 +937,7 @@
       "published": "2026-11-19",
       "tag": "개발 도구",
       "description": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
-      "stars": 505,
+      "stars": 780,
       "language": "TypeScript",
       "topics": [
         "ai-agent",
@@ -610,6 +953,30 @@
       "collectedAt": "2026-11-21T17:33:39+09:00"
     },
     {
+      "id": "github-dbd90f1ed2",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "lukendeasy/open-diagram",
+      "url": "https://github.com/lukendeasy/open-diagram",
+      "published": "2026-11-19",
+      "tag": "개발 도구",
+      "description": "Python building blocks for dense architecture diagrams that check their own layout",
+      "stars": 348,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "architecture-diagrams",
+        "claude",
+        "diagrams",
+        "diagrams-as-code",
+        "python",
+        "svg"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-24T08:56:44+09:00"
+    },
+    {
       "id": "github-c177025b2c",
       "source": "GitHub",
       "sourceKey": "github",
@@ -619,7 +986,7 @@
       "published": "2026-11-19",
       "tag": "개발 도구",
       "description": "Autonomous airdrop operator: identities, wallets, socials, testnets, quests, radar — guarded CLI + MCP",
-      "stars": 98,
+      "stars": 101,
       "language": "Python",
       "topics": [
         "airdrop",
@@ -633,6 +1000,106 @@
       ],
       "status": "검수 대기",
       "collectedAt": "2026-11-21T17:33:39+09:00"
+    },
+    {
+      "id": "github-8c16f1c767",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "tiwe0/runidbg",
+      "url": "https://github.com/tiwe0/runidbg",
+      "published": "2026-11-19",
+      "tag": "개발 도구",
+      "description": "High-performance Android ARM64 .so emulator, zero-copy binary tracer, QuickJS engine, async multi-core RPC & MCP server in pure Rust",
+      "stars": 69,
+      "language": "Rust",
+      "topics": [
+        "android",
+        "arm64",
+        "binary-analysis",
+        "emulator",
+        "gdb-stub",
+        "jni",
+        "mcp",
+        "quickjs"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-24T08:56:44+09:00"
+    },
+    {
+      "id": "github-836b627588",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "EL4CTEO/godot-skills",
+      "url": "https://github.com/EL4CTEO/godot-skills",
+      "published": "2026-11-19",
+      "tag": "개발 도구",
+      "description": "Godot 4.7 Agent Skills for AI coding agents, based on Godot 4.7.2: GDScript and C#/.NET, exact API lookup, safe scene editing, compile checks.",
+      "stars": 45,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "csharp",
+        "cursor",
+        "dotnet",
+        "gamedev"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-24T08:56:44+09:00"
+    },
+    {
+      "id": "github-07fdcdc384",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "YinkaiYu/chat-in-dsh",
+      "url": "https://github.com/YinkaiYu/chat-in-dsh",
+      "published": "2026-11-19",
+      "tag": "AI 활용",
+      "description": "在 DeepSeek Harness 里使用 DeepSeek 网页版聊天 | The authentic DeepSeek web chat inside DeepSeek Harness (DSH).",
+      "stars": 44,
+      "language": "JavaScript",
+      "topics": [
+        "ai-chat",
+        "chat-demo",
+        "chat-ui",
+        "deepseek",
+        "deepseek-chat",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-24T08:56:44+09:00"
+    },
+    {
+      "id": "github-ba7096a538",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "yapengl490-cmd/order-policy-assistant",
+      "url": "https://github.com/yapengl490-cmd/order-policy-assistant",
+      "published": "2026-11-19",
+      "tag": "개발 도구",
+      "description": "面向买家与商家的只读订单和售后核查助手：核对退款金额、匹配适用政策，并为金额变化提供可追溯依据。",
+      "stars": 38,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "customer-support",
+        "docker",
+        "ecommerce",
+        "fastapi",
+        "mcp",
+        "postgresql",
+        "python"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-24T08:56:44+09:00"
     },
     {
       "id": "openai-6687f7be62",
@@ -767,6 +1234,56 @@
       "collectedAt": "2026-11-21T17:34:22+09:00"
     },
     {
+      "id": "github-cf09480184",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "ccarter01011/traxagent-claude-plugin",
+      "url": "https://github.com/ccarter01011/traxagent-claude-plugin",
+      "published": "2026-11-18",
+      "tag": "개발 도구",
+      "description": "Ask Claude, ChatGPT, Claude Code, Cursor or VS Code who spent your AI budget and what to fix. TraxAgent's read-only MCP server and Claude Code plugin.",
+      "stars": 136,
+      "language": "Python",
+      "topics": [
+        "ai-cost",
+        "ai-governance",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-21T17:33:39+09:00"
+    },
+    {
+      "id": "github-3bc2a4ffe3",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "byttrade/bytx-skills",
+      "url": "https://github.com/byttrade/bytx-skills",
+      "published": "2026-11-18",
+      "tag": "개발 도구",
+      "description": "Crypto trading skills for AI assistants on bytx: MCP server + CLI + Claude skills. Paper by default, never without your yes.",
+      "stars": 89,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "binance",
+        "bybit",
+        "claude",
+        "claude-skills",
+        "crypto-trading",
+        "mcp",
+        "mcp-server"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-24T08:56:44+09:00"
+    },
+    {
       "id": "github-92650bcb3d",
       "source": "GitHub",
       "sourceKey": "github",
@@ -776,7 +1293,7 @@
       "published": "2026-11-18",
       "tag": "AI 모델",
       "description": "A modular desktop workspace for configuring and running local AI models.",
-      "stars": 147,
+      "stars": 68,
       "language": "Dockerfile",
       "topics": [
         "automation",
@@ -801,7 +1318,7 @@
       "published": "2026-11-18",
       "tag": "개발 도구",
       "description": "Streamlined workspace for organizing and running AI workflows in one place.",
-      "stars": 147,
+      "stars": 68,
       "language": "TypeScript",
       "topics": [
         "chat",
@@ -826,7 +1343,7 @@
       "published": "2026-11-18",
       "tag": "개발 도구",
       "description": "Adobe Firefly Image Generator: Professional Image Creation",
-      "stars": 147,
+      "stars": 68,
       "language": "Rust",
       "topics": [
         "adobe-firefly-2026",
@@ -842,29 +1359,29 @@
       "collectedAt": "2026-11-23T08:50:23+09:00"
     },
     {
-      "id": "github-cf09480184",
+      "id": "github-f72ddee8dc",
       "source": "GitHub",
       "sourceKey": "github",
       "sourceType": "GitHub 인기 저장소",
-      "title": "ccarter01011/traxagent-claude-plugin",
-      "url": "https://github.com/ccarter01011/traxagent-claude-plugin",
+      "title": "Echoxiawan/Astra",
+      "url": "https://github.com/Echoxiawan/Astra",
       "published": "2026-11-18",
       "tag": "개발 도구",
-      "description": "Ask Claude, ChatGPT, Claude Code, Cursor or VS Code who spent your AI budget and what to fix. TraxAgent's read-only MCP server and Claude Code plugin.",
-      "stars": 137,
+      "description": "Astra: open-source AI mobile UI automation testing. Write natural-language test cases, run them with AI on real Android/iOS devices via Appium, and generate standalone pytest + Appium scripts. 用自然语言写移动端测试用例，AI 在 Android / iOS 真机上执行，跑通后生成可独立运行的 pytest + Appium 脚本。",
+      "stars": 68,
       "language": "Python",
       "topics": [
-        "ai-cost",
-        "ai-governance",
-        "anthropic",
-        "chatgpt",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "cursor"
+        "ai-agent",
+        "ai-testing",
+        "android",
+        "appium",
+        "astra",
+        "astra-ai",
+        "astra-testing",
+        "fastapi"
       ],
       "status": "검수 대기",
-      "collectedAt": "2026-11-21T17:33:39+09:00"
+      "collectedAt": "2026-11-24T08:56:44+09:00"
     },
     {
       "id": "github-fbb66a1d7a",
@@ -876,7 +1393,7 @@
       "published": "2026-11-18",
       "tag": "개발 도구",
       "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "stars": 52,
+      "stars": 40,
       "language": null,
       "topics": [
         "ai",
@@ -890,6 +1407,31 @@
       ],
       "status": "검수 대기",
       "collectedAt": "2026-11-23T08:50:23+09:00"
+    },
+    {
+      "id": "github-890561df8a",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "4liyev/Gemini-Config-Checker-",
+      "url": "https://github.com/4liyev/Gemini-Config-Checker-",
+      "published": "2026-11-18",
+      "tag": "개발 도구",
+      "description": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+      "stars": 40,
+      "language": "Go",
+      "topics": [
+        "ai",
+        "ai-search",
+        "aichecker",
+        "chatgpt",
+        "cli",
+        "config-checker",
+        "gemeni",
+        "gemeni-checker"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-24T08:56:44+09:00"
     },
     {
       "id": "openai-e683d40fba",
@@ -1106,7 +1648,7 @@
       "published": "2026-11-17",
       "tag": "개발 도구",
       "description": "Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards, docs, and motion.",
-      "stars": 352,
+      "stars": 435,
       "language": "TypeScript",
       "topics": [
         "agent-skills",
@@ -1122,6 +1664,28 @@
       "collectedAt": "2026-11-22T08:46:48+09:00"
     },
     {
+      "id": "github-1f4e70aa88",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "hovocope135-tech/DSH-projects",
+      "url": "https://github.com/hovocope135-tech/DSH-projects",
+      "published": "2026-11-17",
+      "tag": "개발 도구",
+      "description": "探索人与 AI 的最佳协作方式 · Exploring the best way for people and AI to work together. DSH-projects is an open-source plugin for DeepSeek Harness: state a goal in one sentence, it asks what is unclear, runs the tasks in parallel, and brings finished work back to you.",
+      "stars": 411,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "context-engineering",
+        "deepseek-harness",
+        "task-management"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-22T08:46:48+09:00"
+    },
+    {
       "id": "github-5c555fbf17",
       "source": "GitHub",
       "sourceKey": "github",
@@ -1131,7 +1695,7 @@
       "published": "2026-11-17",
       "tag": "개발 도구",
       "description": "Open-source, self-hosted Deployment Platform. Deploy from Git to your own server with one command.",
-      "stars": 123,
+      "stars": 134,
       "language": "TypeScript",
       "topics": [
         "deployment",
@@ -1179,7 +1743,7 @@
       "published": "2026-11-17",
       "tag": "개발 도구",
       "description": "MCP server for temporary email & SMS — receive OTPs, verification links, and confirmation codes. Zero API keys required.",
-      "stars": 78,
+      "stars": 80,
       "language": "Python",
       "topics": [
         "ai-tools",
@@ -1195,28 +1759,6 @@
       "collectedAt": "2026-11-21T17:33:39+09:00"
     },
     {
-      "id": "github-1f4e70aa88",
-      "source": "GitHub",
-      "sourceKey": "github",
-      "sourceType": "GitHub 인기 저장소",
-      "title": "hovocope135-tech/DSH-projects",
-      "url": "https://github.com/hovocope135-tech/DSH-projects",
-      "published": "2026-11-17",
-      "tag": "개발 도구",
-      "description": "探索人与 AI 的最佳协作方式 · Exploring the best way for people and AI to work together. DSH-projects is an open-source plugin for DeepSeek Harness: state a goal in one sentence, it asks what is unclear, runs the tasks in parallel, and brings finished work back to you.",
-      "stars": 77,
-      "language": "JavaScript",
-      "topics": [
-        "ai-agents",
-        "claude-code",
-        "context-engineering",
-        "deepseek-harness",
-        "task-management"
-      ],
-      "status": "검수 대기",
-      "collectedAt": "2026-11-22T08:46:48+09:00"
-    },
-    {
       "id": "github-b9620ef989",
       "source": "GitHub",
       "sourceKey": "github",
@@ -1226,7 +1768,7 @@
       "published": "2026-11-17",
       "tag": "개발 도구",
       "description": "Open-source marketing workspace: business context, a marketing plan and campaigns across channels. It only sends what a person approved.",
-      "stars": 75,
+      "stars": 76,
       "language": "TypeScript",
       "topics": [
         "ai-agents",
@@ -1251,7 +1793,7 @@
       "published": "2026-11-17",
       "tag": "개발 도구",
       "description": "Let your AI agents discover and talk freely to each other - cross-harness, even cross-machine. Remote control them from any device, anywhere.",
-      "stars": 57,
+      "stars": 61,
       "language": "TypeScript",
       "topics": [
         "agent-communication",
