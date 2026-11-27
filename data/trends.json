@@ -1,15 +1,40 @@
 {
-  "updatedAt": "2026-11-26T08:56:06+09:00",
-  "since": "2026-11-19",
+  "updatedAt": "2026-11-27T09:02:14+09:00",
+  "since": "2026-11-20",
   "sources": {
-    "OpenAI": "17건",
-    "Google DeepMind": "4건",
+    "OpenAI": "12건",
+    "Google DeepMind": "실패 (ParseError: not well-formed (invalid token): line 1, column 0)",
     "Hugging Face": "9건",
     "TLDR AI": "5건",
     "GitHub": "35건"
   },
-  "count": 168,
+  "count": 178,
   "items": [
+    {
+      "id": "github-91b0d57339",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "gary23w/f-ck_data_brokers",
+      "url": "https://github.com/gary23w/f-ck_data_brokers",
+      "published": "2026-11-27",
+      "tag": "개발 도구",
+      "description": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
+      "stars": 355,
+      "language": "Python",
+      "topics": [
+        "ccpa",
+        "cli",
+        "data-brokers",
+        "data-deletion",
+        "gdpr",
+        "lgpd",
+        "mcp",
+        "mcp-server"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-27T09:02:14+09:00"
+    },
     {
       "id": "github-237abfc39f",
       "source": "GitHub",
@@ -20,7 +45,7 @@
       "published": "2026-11-26",
       "tag": "개발 도구",
       "description": "Free frontend design skill for Claude Code, Codex and Cursor: designs your UI on a UX Pilot canvas, then builds it in your code",
-      "stars": 87,
+      "stars": 195,
       "language": null,
       "topics": [
         "agent-skills",
@@ -98,6 +123,54 @@
       "collectedAt": "2026-11-26T08:56:06+09:00"
     },
     {
+      "id": "hf-02a0884347",
+      "source": "Hugging Face",
+      "sourceKey": "hf",
+      "sourceType": "AI 기업 블로그",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "published": "2026-11-26",
+      "tag": "리서치",
+      "status": "검수 대기",
+      "collectedAt": "2026-11-27T09:02:14+09:00"
+    },
+    {
+      "id": "hf-d3aa48daa6",
+      "source": "Hugging Face",
+      "sourceKey": "hf",
+      "sourceType": "AI 기업 블로그",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "published": "2026-11-26",
+      "tag": "AI 활용",
+      "status": "검수 대기",
+      "collectedAt": "2026-11-27T09:02:14+09:00"
+    },
+    {
+      "id": "hf-c01600d416",
+      "source": "Hugging Face",
+      "sourceKey": "hf",
+      "sourceType": "AI 기업 블로그",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "published": "2026-11-26",
+      "tag": "개발 도구",
+      "status": "검수 대기",
+      "collectedAt": "2026-11-27T09:02:14+09:00"
+    },
+    {
+      "id": "tldr-042b5f1621",
+      "source": "TLDR AI",
+      "sourceKey": "tldr",
+      "sourceType": "뉴스레터",
+      "title": "Opus 5.6 testing 🤖, OpenAI private Inference 🔒, Jev is probably Qwen 📝",
+      "url": "https://tldr.tech/ai/2026-11-26",
+      "published": "2026-11-26",
+      "tag": "AI 활용",
+      "status": "검수 대기",
+      "collectedAt": "2026-11-27T09:02:14+09:00"
+    },
+    {
       "id": "github-a519f60a21",
       "source": "GitHub",
       "sourceKey": "github",
@@ -107,7 +180,7 @@
       "published": "2026-11-25",
       "tag": "AI 모델",
       "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
-      "stars": 206,
+      "stars": 1499,
       "language": "Assembly",
       "topics": [
         "assembly",
@@ -123,6 +196,31 @@
       "collectedAt": "2026-11-26T08:56:06+09:00"
     },
     {
+      "id": "github-9a2d977585",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "nexu-io/opengame",
+      "url": "https://github.com/nexu-io/opengame",
+      "published": "2026-11-25",
+      "tag": "개발 도구",
+      "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+      "stars": 823,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ai-game-generator",
+        "claude-code",
+        "codex",
+        "deepseek",
+        "deepseek-harness",
+        "dsh"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-27T09:02:14+09:00"
+    },
+    {
       "id": "github-81320e4a2b",
       "source": "GitHub",
       "sourceKey": "github",
@@ -132,7 +230,7 @@
       "published": "2026-11-25",
       "tag": "개발 도구",
       "description": "Prospecção open source do Google Maps ao Pix: acha negócios no Maps, gera um site-prévia com o nome de cada um, conversa no WhatsApp e cobra por Pix, Mercado Pago ou Stripe. Pagou, fecha sozinho. Roda no seu PC, VPS ou Vercel, com API para agentes (Claude Code, Codex, n8n).",
-      "stars": 173,
+      "stars": 215,
       "language": "TypeScript",
       "topics": [
         "ai-agents",
@@ -146,6 +244,29 @@
       ],
       "status": "검수 대기",
       "collectedAt": "2026-11-26T08:56:06+09:00"
+    },
+    {
+      "id": "github-aa2eb1df73",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "langchain-samples/Persistent-Agent",
+      "url": "https://github.com/langchain-samples/Persistent-Agent",
+      "published": "2026-11-25",
+      "tag": "개발 도구",
+      "description": "Persistent Agent is a proactive, always-on, goal-oriented agent. Think Muse or Instinct, but for the enterprise. Comes with memory, browser use, hundreds of tools, and proactive playbooks it can run in the background to take work off your plate. Built on Managed Deep Agents (MDA).",
+      "stars": 142,
+      "language": "Python",
+      "topics": [
+        "agent-template",
+        "ai-agents",
+        "deep-agents",
+        "langchain",
+        "langsmith",
+        "slack-bot"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-27T09:02:14+09:00"
     },
     {
       "id": "hf-16565a3f5d",
@@ -205,7 +326,7 @@
       "published": "2026-11-24",
       "tag": "개발 도구",
       "description": "Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.",
-      "stars": 279,
+      "stars": 335,
       "language": "Rust",
       "topics": [
         "ai-agents",
@@ -230,7 +351,7 @@
       "published": "2026-11-24",
       "tag": "개발 도구",
       "description": "Claude Desktop for Windows 10/11. Chats with Claude AI to draft documents, analyze files and code, and answer questions from a native desktop app with quick access to your projects and conversations.",
-      "stars": 162,
+      "stars": 237,
       "language": null,
       "topics": [
         "claude",
@@ -255,7 +376,7 @@
       "published": "2026-11-24",
       "tag": "개발 도구",
       "description": "Biosignal-guided reinforcement learning for LLM agents: offline organoid neural recordings as policy inputs in a Godot survival game, with paired evaluation.",
-      "stars": 145,
+      "stars": 166,
       "language": "Python",
       "topics": [
         "biosignals",
@@ -305,7 +426,7 @@
       "published": "2026-11-24",
       "tag": "개발 도구",
       "description": "Rotate Claude Code sessions automatically. Never hit the limit again. | claude claude-code anthropic llm ai-tools cli | Portable x64 prebuilt for Windows",
-      "stars": 68,
+      "stars": 69,
       "language": "C++",
       "topics": [
         "ai-tools",
@@ -455,7 +576,7 @@
       "published": "2026-11-24",
       "tag": "개발 도구",
       "description": "Turn anything your like (photos, videos, novels, films, memories) into worlds you can play in games you love. Coding agents (Claude Code, Codex, Gemini CLI, OpenCode…) build, playtest and refine the mod while you just chat.",
-      "stars": 30,
+      "stars": 34,
       "language": "Python",
       "topics": [
         "ai-agents",
@@ -469,6 +590,31 @@
       ],
       "status": "검수 대기",
       "collectedAt": "2026-11-26T08:56:06+09:00"
+    },
+    {
+      "id": "github-9cb9fa724b",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "HorizonWind2004/i2v-transfer",
+      "url": "https://github.com/HorizonWind2004/i2v-transfer",
+      "published": "2026-11-24",
+      "tag": "리서치",
+      "description": "Improving and Expanding Video Editing Capabilities Without Videos",
+      "stars": 33,
+      "language": "Python",
+      "topics": [
+        "benchmark",
+        "computer-vision",
+        "diffusion",
+        "diffusion-models",
+        "distillation",
+        "flow-matching",
+        "generative-ai",
+        "image-editing"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-27T09:02:14+09:00"
     },
     {
       "id": "openai-1d0c151fef",
@@ -600,7 +746,7 @@
       "published": "2026-11-23",
       "tag": "개발 도구",
       "description": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
-      "stars": 704,
+      "stars": 786,
       "language": "Rust",
       "topics": [
         "ai-agents",
@@ -625,7 +771,7 @@
       "published": "2026-11-23",
       "tag": "AI 모델",
       "description": "Looped Weight-Space Programming: LLM-Written Transformers for Long Algorithmic Reasoning",
-      "stars": 115,
+      "stars": 124,
       "language": "Python",
       "topics": [
         "algorithmic-reasoning",
@@ -650,7 +796,7 @@
       "published": "2026-11-23",
       "tag": "개발 도구",
       "description": "100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code",
-      "stars": 74,
+      "stars": 117,
       "language": "JavaScript",
       "topics": [
         "agent-skills",
@@ -687,6 +833,31 @@
       ],
       "status": "검수 대기",
       "collectedAt": "2026-11-26T08:56:06+09:00"
+    },
+    {
+      "id": "github-82798b1a32",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "enwove/flyx",
+      "url": "https://github.com/enwove/flyx",
+      "published": "2026-11-23",
+      "tag": "개발 도구",
+      "description": "Zero-dependency local LLM inference engine in a ~50 MB binary — native long context, tuned per GPU, built-in speculative decoding and web dashboard.",
+      "stars": 60,
+      "language": "C++",
+      "topics": [
+        "anthropic-api",
+        "cpp",
+        "cuda",
+        "gguf",
+        "inference",
+        "llm",
+        "local-llm",
+        "long-context"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-27T09:02:14+09:00"
     },
     {
       "id": "openai-f8a4e02f42",
@@ -737,6 +908,31 @@
       "collectedAt": "2026-11-24T08:56:44+09:00"
     },
     {
+      "id": "github-21ba123e16",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "qianyiai/KuroCat",
+      "url": "https://github.com/qianyiai/KuroCat",
+      "published": "2026-11-22",
+      "tag": "개발 도구",
+      "description": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
+      "stars": 1341,
+      "language": "TypeScript",
+      "topics": [
+        "3d",
+        "ai-companion",
+        "android",
+        "bongo-cat",
+        "bongocat",
+        "claude-code",
+        "codex",
+        "cross-platform"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-27T09:02:14+09:00"
+    },
+    {
       "id": "github-a306cf002b",
       "source": "GitHub",
       "sourceKey": "github",
@@ -771,7 +967,7 @@
       "published": "2026-11-22",
       "tag": "개발 도구",
       "description": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
-      "stars": 597,
+      "stars": 616,
       "language": "Rust",
       "topics": [
         "ai-agents",
@@ -932,7 +1128,7 @@
       "published": "2026-11-21",
       "tag": "개발 도구",
       "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
-      "stars": 3947,
+      "stars": 4228,
       "language": "Rust",
       "topics": [
         "agent-skills",
@@ -957,7 +1153,7 @@
       "published": "2026-11-21",
       "tag": "개발 도구",
       "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
-      "stars": 594,
+      "stars": 655,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -1032,7 +1228,7 @@
       "published": "2026-11-21",
       "tag": "개발 도구",
       "description": "Read-only MCP servers that let AI assistants query SAP S/4HANA through RFC/BAPI, private-cloud OData and public-cloud released APIs. Every call audited; credentials stay local.",
-      "stars": 152,
+      "stars": 175,
       "language": "Python",
       "topics": [
         "ai-agents",
@@ -1073,6 +1269,28 @@
       "collectedAt": "2026-11-21T17:33:39+09:00"
     },
     {
+      "id": "github-ddd7c633c9",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "bluesky-social/diderot",
+      "url": "https://github.com/bluesky-social/diderot",
+      "published": "2026-11-21",
+      "tag": "개발 도구",
+      "description": "Search and ask across your organization's knowledge: Slack, coding-agent sessions, docs and tickets. Self-hosted.",
+      "stars": 59,
+      "language": "Go",
+      "topics": [
+        "coding-agents",
+        "mcp",
+        "rag",
+        "self-hosted",
+        "slack"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-22T08:46:48+09:00"
+    },
+    {
       "id": "github-a7b2127f0d",
       "source": "GitHub",
       "sourceKey": "github",
@@ -1097,28 +1315,6 @@
       "collectedAt": "2026-11-25T08:55:15+09:00"
     },
     {
-      "id": "github-ddd7c633c9",
-      "source": "GitHub",
-      "sourceKey": "github",
-      "sourceType": "GitHub 인기 저장소",
-      "title": "bluesky-social/diderot",
-      "url": "https://github.com/bluesky-social/diderot",
-      "published": "2026-11-21",
-      "tag": "개발 도구",
-      "description": "Search and ask across your organization's knowledge: Slack, coding-agent sessions, docs and tickets. Self-hosted.",
-      "stars": 56,
-      "language": "Go",
-      "topics": [
-        "coding-agents",
-        "mcp",
-        "rag",
-        "self-hosted",
-        "slack"
-      ],
-      "status": "검수 대기",
-      "collectedAt": "2026-11-22T08:46:48+09:00"
-    },
-    {
       "id": "github-197dc8b3ac",
       "source": "GitHub",
       "sourceKey": "github",
@@ -1128,7 +1324,7 @@
       "published": "2026-11-20",
       "tag": "개발 도구",
       "description": "A training engine for your local model, using your idle compute",
-      "stars": 856,
+      "stars": 904,
       "language": "Python",
       "topics": [
         "coding-agents",
@@ -1152,7 +1348,7 @@
       "published": "2026-11-20",
       "tag": "개발 도구",
       "description": "Google Antigravity plugin that improves cache hits, keeps cache warm automatically, protects context quota, shows live context usage, rescues crashed sessions, and saves tokens.",
-      "stars": 177,
+      "stars": 205,
       "language": "JavaScript",
       "topics": [
         "ai-coding",
@@ -1177,7 +1373,7 @@
       "published": "2026-11-20",
       "tag": "개발 도구",
       "description": "Import WorkBuddy accounts into DeepSeek Harness as model providers: one route per account, full model list, per-account credit balance, and an automatic workaround for the gateway 11128 channel check.",
-      "stars": 167,
+      "stars": 176,
       "language": "JavaScript",
       "topics": [
         "codebuddy",
@@ -1200,7 +1396,7 @@
       "published": "2026-11-20",
       "tag": "개발 도구",
       "description": "Agent skills for Nest framework (node.js) 🕵️‍♂️",
-      "stars": 164,
+      "stars": 167,
       "language": "JavaScript",
       "topics": [
         "agent-skills",
@@ -1350,7 +1546,7 @@
       "published": "2026-11-20",
       "tag": "개발 도구",
       "description": "A local canvas of everything your Claude Code sessions make.",
-      "stars": 123,
+      "stars": 132,
       "language": "TypeScript",
       "topics": [
         "canvas",
@@ -1371,7 +1567,7 @@
       "published": "2026-11-20",
       "tag": "개발 도구",
       "description": "AI-assisted game analysis and reconstruction, working toward one-click workflows for any game.",
-      "stars": 118,
+      "stars": 130,
       "language": null,
       "topics": [
         "agent-skills",
