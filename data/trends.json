@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-27T09:02:14+09:00",
-  "since": "2026-11-20",
+  "updatedAt": "2026-11-28T08:57:57+09:00",
+  "since": "2026-11-21",
   "sources": {
-    "OpenAI": "12건",
+    "OpenAI": "9건",
     "Google DeepMind": "실패 (ParseError: not well-formed (invalid token): line 1, column 0)",
-    "Hugging Face": "9건",
+    "Hugging Face": "8건",
     "TLDR AI": "5건",
-    "GitHub": "35건"
+    "GitHub": "42건"
   },
-  "count": 178,
+  "count": 196,
   "items": [
     {
       "id": "github-91b0d57339",
@@ -20,7 +20,7 @@
       "published": "2026-11-27",
       "tag": "개발 도구",
       "description": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
-      "stars": 355,
+      "stars": 660,
       "language": "Python",
       "topics": [
         "ccpa",
@@ -36,6 +36,179 @@
       "collectedAt": "2026-11-27T09:02:14+09:00"
     },
     {
+      "id": "github-627069b916",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "titisseptian-SS/omniroute-explorer",
+      "url": "https://github.com/titisseptian-SS/omniroute-explorer",
+      "published": "2026-11-27",
+      "tag": "개발 도구",
+      "description": "OmniRoute Explorer: Lightweight, Open-Access Routing Tool",
+      "stars": 34,
+      "language": "HTML",
+      "topics": [
+        "ai-gateway",
+        "generative-ai",
+        "llm",
+        "omniroute",
+        "openai",
+        "python",
+        "streamlit"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-28T08:57:57+09:00"
+    },
+    {
+      "id": "github-0819198e49",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "1lamech/ai-image-generator-prompts",
+      "url": "https://github.com/1lamech/ai-image-generator-prompts",
+      "published": "2026-11-27",
+      "tag": "개발 도구",
+      "description": "AI Image Generator Prompts: Openly Available Prompt Corpus for Methodical Evaluation",
+      "stars": 33,
+      "language": "HTML",
+      "topics": [
+        "ai-art-prompts",
+        "ai-image-editor",
+        "ai-photo-editor",
+        "ai-tools",
+        "cliprise",
+        "creative-ai",
+        "free-ai-art-generator",
+        "generative-ai"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-28T08:57:57+09:00"
+    },
+    {
+      "id": "github-fe6efe854f",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "khalilur14103026/crypto-accumulation-scanner",
+      "url": "https://github.com/khalilur14103026/crypto-accumulation-scanner",
+      "published": "2026-11-27",
+      "tag": "개발 도구",
+      "description": "Community-Driven Crypto Accumulation Scanner with Telegram Alerts and Rich Features",
+      "stars": 32,
+      "language": "HTML",
+      "topics": [
+        "asyncio",
+        "ats",
+        "booking-system",
+        "conversational-ai",
+        "cryptocurrency",
+        "data-analysis",
+        "multi-agent-systems",
+        "pandas"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-28T08:57:57+09:00"
+    },
+    {
+      "id": "github-22289bdf9c",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "SenpaiSpide664/ai-visual-prompt-cookbook",
+      "url": "https://github.com/SenpaiSpide664/ai-visual-prompt-cookbook",
+      "published": "2026-11-27",
+      "tag": "개발 도구",
+      "description": "AI Visual Prompt Cookbook: Reusable JSON Style Prompts for Consistent Image Generation",
+      "stars": 31,
+      "language": "HTML",
+      "topics": [
+        "ai",
+        "ai-art",
+        "ai-prompts",
+        "design-resources",
+        "gemini",
+        "generative-ai",
+        "gpt-image",
+        "graphic-design"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-28T08:57:57+09:00"
+    },
+    {
+      "id": "github-85080ae8ef",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "Niruthiya04/echomind-voice-assistant",
+      "url": "https://github.com/Niruthiya04/echomind-voice-assistant",
+      "published": "2026-11-27",
+      "tag": "AI 모델",
+      "description": "EchoMind: Local-First Voice Memory Assistant with Live Transcription and Private RAG",
+      "stars": 31,
+      "language": "HTML",
+      "topics": [
+        "accessibility",
+        "hearing-assistance",
+        "llama-cpp",
+        "llama-cpp-python",
+        "local-llm",
+        "on-device-ai",
+        "open-source",
+        "privacy"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-28T08:57:57+09:00"
+    },
+    {
+      "id": "github-5ee74a90d3",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "Ndarrr07/pro-llm-api-hub",
+      "url": "https://github.com/Ndarrr07/pro-llm-api-hub",
+      "published": "2026-11-27",
+      "tag": "개발 도구",
+      "description": "Pro LLM API Hub: Structured Dataset of Large Language Model Interfaces",
+      "stars": 30,
+      "language": "HTML",
+      "topics": [
+        "ai-api",
+        "api-list",
+        "awesome-list",
+        "dataset",
+        "free-api",
+        "free-apis",
+        "free-llm",
+        "free-llm-api"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-28T08:57:57+09:00"
+    },
+    {
+      "id": "hf-2d7f8b4f84",
+      "source": "Hugging Face",
+      "sourceKey": "hf",
+      "sourceType": "AI 기업 블로그",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "published": "2026-11-27",
+      "tag": "AI 활용",
+      "status": "검수 대기",
+      "collectedAt": "2026-11-28T08:57:57+09:00"
+    },
+    {
+      "id": "tldr-dda121ef52",
+      "source": "TLDR AI",
+      "sourceKey": "tldr",
+      "sourceType": "뉴스레터",
+      "title": "OpenAI cost controls 💰, measuring RSI 📈, looped transformers ➰",
+      "url": "https://tldr.tech/ai/2026-11-27",
+      "published": "2026-11-27",
+      "tag": "AI 활용",
+      "status": "검수 대기",
+      "collectedAt": "2026-11-28T08:57:57+09:00"
+    },
+    {
       "id": "github-237abfc39f",
       "source": "GitHub",
       "sourceKey": "github",
@@ -45,7 +218,7 @@
       "published": "2026-11-26",
       "tag": "개발 도구",
       "description": "Free frontend design skill for Claude Code, Codex and Cursor: designs your UI on a UX Pilot canvas, then builds it in your code",
-      "stars": 195,
+      "stars": 196,
       "language": null,
       "topics": [
         "agent-skills",
@@ -59,6 +232,56 @@
       ],
       "status": "검수 대기",
       "collectedAt": "2026-11-26T08:56:06+09:00"
+    },
+    {
+      "id": "github-26cd3abe44",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "eust-w/open-robotics-plugin",
+      "url": "https://github.com/eust-w/open-robotics-plugin",
+      "published": "2026-11-26",
+      "tag": "개발 도구",
+      "description": "Robotics agent skills (MuJoCo, perception, planning, sim2real, bring-up) for Claude Code, Antigravity, Codex, Gemini CLI, Cursor and more. Adapted from google-deepmind/robotics-antigravity-plugin (Apache-2.0).",
+      "stars": 103,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "cursor",
+        "gemini-cli",
+        "mujoco",
+        "robotics"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-28T08:57:57+09:00"
+    },
+    {
+      "id": "github-d2c8df347a",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "matheusmongarde/central",
+      "url": "https://github.com/matheusmongarde/central",
+      "published": "2026-11-26",
+      "tag": "개발 도구",
+      "description": "Sua empresa tocada por uma equipe de agentes de IA: redes sociais, vendas, estratégia e operação. 7 chefes, 38 skills em português, Buffer, Google Maps e API para o seu agente. Aberto e grátis. Roda no seu PC, VPS ou Vercel.",
+      "stars": 98,
+      "language": "TypeScript",
+      "topics": [
+        "agentes-de-ia",
+        "ai-agents",
+        "brasil",
+        "buffer",
+        "claude",
+        "instagram",
+        "marketing",
+        "mcp"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-28T08:57:57+09:00"
     },
     {
       "id": "github-693381bdf3",
@@ -171,31 +394,6 @@
       "collectedAt": "2026-11-27T09:02:14+09:00"
     },
     {
-      "id": "github-a519f60a21",
-      "source": "GitHub",
-      "sourceKey": "github",
-      "sourceType": "GitHub 인기 저장소",
-      "title": "alesha-pro/llm.asm",
-      "url": "https://github.com/alesha-pro/llm.asm",
-      "published": "2026-11-25",
-      "tag": "AI 모델",
-      "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
-      "stars": 1499,
-      "language": "Assembly",
-      "topics": [
-        "assembly",
-        "avx2",
-        "bare-metal",
-        "llm",
-        "machine-learning",
-        "nasm",
-        "osdev",
-        "qwen"
-      ],
-      "status": "검수 대기",
-      "collectedAt": "2026-11-26T08:56:06+09:00"
-    },
-    {
       "id": "github-9a2d977585",
       "source": "GitHub",
       "sourceKey": "github",
@@ -205,7 +403,7 @@
       "published": "2026-11-25",
       "tag": "개발 도구",
       "description": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
-      "stars": 823,
+      "stars": 2227,
       "language": "TypeScript",
       "topics": [
         "agent-skills",
@@ -221,6 +419,31 @@
       "collectedAt": "2026-11-27T09:02:14+09:00"
     },
     {
+      "id": "github-a519f60a21",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "alesha-pro/llm.asm",
+      "url": "https://github.com/alesha-pro/llm.asm",
+      "published": "2026-11-25",
+      "tag": "AI 모델",
+      "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+      "stars": 2194,
+      "language": "Assembly",
+      "topics": [
+        "assembly",
+        "avx2",
+        "bare-metal",
+        "llm",
+        "machine-learning",
+        "nasm",
+        "osdev",
+        "qwen"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-26T08:56:06+09:00"
+    },
+    {
       "id": "github-81320e4a2b",
       "source": "GitHub",
       "sourceKey": "github",
@@ -230,7 +453,7 @@
       "published": "2026-11-25",
       "tag": "개발 도구",
       "description": "Prospecção open source do Google Maps ao Pix: acha negócios no Maps, gera um site-prévia com o nome de cada um, conversa no WhatsApp e cobra por Pix, Mercado Pago ou Stripe. Pagou, fecha sozinho. Roda no seu PC, VPS ou Vercel, com API para agentes (Claude Code, Codex, n8n).",
-      "stars": 215,
+      "stars": 234,
       "language": "TypeScript",
       "topics": [
         "ai-agents",
@@ -255,7 +478,7 @@
       "published": "2026-11-25",
       "tag": "개발 도구",
       "description": "Persistent Agent is a proactive, always-on, goal-oriented agent. Think Muse or Instinct, but for the enterprise. Comes with memory, browser use, hundreds of tools, and proactive playbooks it can run in the background to take work off your plate. Built on Managed Deep Agents (MDA).",
-      "stars": 142,
+      "stars": 170,
       "language": "Python",
       "topics": [
         "agent-template",
@@ -267,6 +490,55 @@
       ],
       "status": "검수 대기",
       "collectedAt": "2026-11-27T09:02:14+09:00"
+    },
+    {
+      "id": "github-590e62198b",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "ankurmans/caldrin-search-oss",
+      "url": "https://github.com/ankurmans/caldrin-search-oss",
+      "published": "2026-11-25",
+      "tag": "개발 도구",
+      "description": "SEO and AI-visibility platform with an MCP server. Self-host on Cloudflare with your own provider keys.",
+      "stars": 140,
+      "language": "TypeScript",
+      "topics": [
+        "aeo",
+        "ai-visibility",
+        "cloudflare-workers",
+        "mcp",
+        "rank-tracking",
+        "self-hosted",
+        "seo"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-28T08:57:57+09:00"
+    },
+    {
+      "id": "github-20e03ffeb4",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "sqwishai/ippon",
+      "url": "https://github.com/sqwishai/ippon",
+      "published": "2026-11-25",
+      "tag": "개발 도구",
+      "description": "Run decision models on your Mac, down to 51 ms text (14 ms cached), 39 ms audio, 179 ms image, 828 ms video on M5 Pro. No PyTorch or cloud API.",
+      "stars": 59,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "apple-silicon",
+        "classification",
+        "decision-models",
+        "gguf",
+        "inference",
+        "llm",
+        "local-ai"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-28T08:57:57+09:00"
     },
     {
       "id": "hf-16565a3f5d",
@@ -326,7 +598,7 @@
       "published": "2026-11-24",
       "tag": "개발 도구",
       "description": "Less code, same tests passing: delete the dead code, files, dependencies and assets in any codebase, and keep each cut only if your own tests still pass.",
-      "stars": 335,
+      "stars": 390,
       "language": "Rust",
       "topics": [
         "ai-agents",
@@ -351,7 +623,7 @@
       "published": "2026-11-24",
       "tag": "개발 도구",
       "description": "Claude Desktop for Windows 10/11. Chats with Claude AI to draft documents, analyze files and code, and answer questions from a native desktop app with quick access to your projects and conversations.",
-      "stars": 237,
+      "stars": 293,
       "language": null,
       "topics": [
         "claude",
@@ -376,7 +648,7 @@
       "published": "2026-11-24",
       "tag": "개발 도구",
       "description": "Biosignal-guided reinforcement learning for LLM agents: offline organoid neural recordings as policy inputs in a Godot survival game, with paired evaluation.",
-      "stars": 166,
+      "stars": 199,
       "language": "Python",
       "topics": [
         "biosignals",
@@ -392,6 +664,31 @@
       "collectedAt": "2026-11-25T08:55:15+09:00"
     },
     {
+      "id": "github-0fc3a348b5",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "duzhenxun/pop-agent",
+      "url": "https://github.com/duzhenxun/pop-agent",
+      "published": "2026-11-24",
+      "tag": "개발 도구",
+      "description": "PopAgent local web UI for your coding agents: watch the reasoning stream, cut in with a correction mid-turn, manage models and tools. Works with pi, Codex, Claude Code, OpenCode and DSH. Sessions stay the engine's own files — no database, no account.",
+      "stars": 152,
+      "language": "TypeScript",
+      "topics": [
+        "agent-ui",
+        "agentweb",
+        "agentwebui",
+        "codex",
+        "coding-agent",
+        "llm",
+        "local-first",
+        "opencode"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-28T08:57:57+09:00"
+    },
+    {
       "id": "github-9522543ad3",
       "source": "GitHub",
       "sourceKey": "github",
@@ -401,7 +698,7 @@
       "published": "2026-11-24",
       "tag": "개발 도구",
       "description": "Curated and updated daily: agentic commerce protocols (UCP, ACP, AP2, MCP, x402), SDKs, payment providers, open source implementations and the latest news.",
-      "stars": 132,
+      "stars": 131,
       "language": null,
       "topics": [
         "acp",
@@ -415,6 +712,31 @@
       ],
       "status": "검수 대기",
       "collectedAt": "2026-11-26T08:56:06+09:00"
+    },
+    {
+      "id": "github-5cc056bf7e",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "CybeDefend/cybedefend",
+      "url": "https://github.com/CybeDefend/cybedefend",
+      "published": "2026-11-24",
+      "tag": "개발 도구",
+      "description": "Agentic ASPM, the open source Snyk alternative. A full security audit in one command",
+      "stars": 124,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "appsec",
+        "aspm",
+        "coding-agents",
+        "devsecops",
+        "mcp",
+        "open-source",
+        "sarif"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-28T08:57:57+09:00"
     },
     {
       "id": "github-267f3fcb18",
@@ -567,31 +889,6 @@
       "collectedAt": "2026-11-24T08:56:44+09:00"
     },
     {
-      "id": "github-85f80ad717",
-      "source": "GitHub",
-      "sourceKey": "github",
-      "sourceType": "GitHub 인기 저장소",
-      "title": "AetherLabsAI/GameAnything",
-      "url": "https://github.com/AetherLabsAI/GameAnything",
-      "published": "2026-11-24",
-      "tag": "개발 도구",
-      "description": "Turn anything your like (photos, videos, novels, films, memories) into worlds you can play in games you love. Coding agents (Claude Code, Codex, Gemini CLI, OpenCode…) build, playtest and refine the mod while you just chat.",
-      "stars": 34,
-      "language": "Python",
-      "topics": [
-        "ai-agents",
-        "claude-code",
-        "coding-agents",
-        "game-agent",
-        "game-content-generation",
-        "gamedev",
-        "gamemodding",
-        "generative-ai"
-      ],
-      "status": "검수 대기",
-      "collectedAt": "2026-11-26T08:56:06+09:00"
-    },
-    {
       "id": "github-9cb9fa724b",
       "source": "GitHub",
       "sourceKey": "github",
@@ -601,7 +898,7 @@
       "published": "2026-11-24",
       "tag": "리서치",
       "description": "Improving and Expanding Video Editing Capabilities Without Videos",
-      "stars": 33,
+      "stars": 46,
       "language": "Python",
       "topics": [
         "benchmark",
@@ -615,6 +912,31 @@
       ],
       "status": "검수 대기",
       "collectedAt": "2026-11-27T09:02:14+09:00"
+    },
+    {
+      "id": "github-85f80ad717",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "AetherLabsAI/GameAnything",
+      "url": "https://github.com/AetherLabsAI/GameAnything",
+      "published": "2026-11-24",
+      "tag": "개발 도구",
+      "description": "Turn anything your like (photos, videos, novels, films, memories) into worlds you can play in games you love. Coding agents (Claude Code, Codex, Gemini CLI, OpenCode…) build, playtest and refine the mod while you just chat.",
+      "stars": 41,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "coding-agents",
+        "game-agent",
+        "game-content-generation",
+        "gamedev",
+        "gamemodding",
+        "generative-ai"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-26T08:56:06+09:00"
     },
     {
       "id": "openai-1d0c151fef",
@@ -746,7 +1068,7 @@
       "published": "2026-11-23",
       "tag": "개발 도구",
       "description": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
-      "stars": 786,
+      "stars": 828,
       "language": "Rust",
       "topics": [
         "ai-agents",
@@ -762,6 +1084,54 @@
       "collectedAt": "2026-11-24T08:56:44+09:00"
     },
     {
+      "id": "github-8f4aa0deaf",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "DeadInternetStudios/100x-engineer-skill",
+      "url": "https://github.com/DeadInternetStudios/100x-engineer-skill",
+      "published": "2026-11-23",
+      "tag": "개발 도구",
+      "description": "100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code",
+      "stars": 818,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "cursor",
+        "formal-verification"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-26T08:56:06+09:00"
+    },
+    {
+      "id": "github-2b016f2c79",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "7wdn/7paws",
+      "url": "https://github.com/7wdn/7paws",
+      "published": "2026-11-23",
+      "tag": "개발 도구",
+      "description": "Windows 与 macOS 的 3D 桌面小猫桌宠：响应全局键鼠、敲键追光标、摸猫呼噜；支持照片取色或 AI（内置 MCP）定制专属猫咪，闲置后睡觉。",
+      "stars": 155,
+      "language": "Rust",
+      "topics": [
+        "ai",
+        "cat",
+        "customization",
+        "desktop-pet",
+        "macos",
+        "mcp",
+        "rust",
+        "tauri"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-28T08:57:57+09:00"
+    },
+    {
       "id": "github-5c30da3ec8",
       "source": "GitHub",
       "sourceKey": "github",
@@ -771,7 +1141,7 @@
       "published": "2026-11-23",
       "tag": "AI 모델",
       "description": "Looped Weight-Space Programming: LLM-Written Transformers for Long Algorithmic Reasoning",
-      "stars": 124,
+      "stars": 126,
       "language": "Python",
       "topics": [
         "algorithmic-reasoning",
@@ -787,27 +1157,54 @@
       "collectedAt": "2026-11-25T08:55:15+09:00"
     },
     {
-      "id": "github-8f4aa0deaf",
+      "id": "github-82798b1a32",
       "source": "GitHub",
       "sourceKey": "github",
       "sourceType": "GitHub 인기 저장소",
-      "title": "DeadInternetStudios/100x-engineer-skill",
-      "url": "https://github.com/DeadInternetStudios/100x-engineer-skill",
+      "title": "enwove/flyx",
+      "url": "https://github.com/enwove/flyx",
       "published": "2026-11-23",
       "tag": "개발 도구",
-      "description": "100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code",
-      "stars": 117,
-      "language": "JavaScript",
+      "description": "Zero-dependency local LLM inference engine in a ~50 MB binary — native long context, tuned per GPU, built-in speculative decoding and web dashboard.",
+      "stars": 111,
+      "language": "C++",
       "topics": [
-        "agent-skills",
+        "anthropic-api",
+        "cpp",
+        "cuda",
+        "gguf",
+        "inference",
+        "llm",
+        "local-llm",
+        "long-context"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-27T09:02:14+09:00"
+    },
+    {
+      "id": "github-4e3134df7e",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "clipy-recorder/clipy",
+      "url": "https://github.com/clipy-recorder/clipy",
+      "published": "2026-11-23",
+      "tag": "개발 도구",
+      "description": "The AI-native screen recorder. Record your screen and talk; the people you share it with and your AI agents both get it.",
+      "stars": 95,
+      "language": "Rust",
+      "topics": [
+        "agent-readable",
         "ai-agents",
+        "arec",
         "claude-code",
         "codex",
         "cursor",
-        "formal-verification"
+        "local-first",
+        "macos"
       ],
       "status": "검수 대기",
-      "collectedAt": "2026-11-26T08:56:06+09:00"
+      "collectedAt": "2026-11-28T08:57:57+09:00"
     },
     {
       "id": "github-040e83841a",
@@ -833,31 +1230,6 @@
       ],
       "status": "검수 대기",
       "collectedAt": "2026-11-26T08:56:06+09:00"
-    },
-    {
-      "id": "github-82798b1a32",
-      "source": "GitHub",
-      "sourceKey": "github",
-      "sourceType": "GitHub 인기 저장소",
-      "title": "enwove/flyx",
-      "url": "https://github.com/enwove/flyx",
-      "published": "2026-11-23",
-      "tag": "개발 도구",
-      "description": "Zero-dependency local LLM inference engine in a ~50 MB binary — native long context, tuned per GPU, built-in speculative decoding and web dashboard.",
-      "stars": 60,
-      "language": "C++",
-      "topics": [
-        "anthropic-api",
-        "cpp",
-        "cuda",
-        "gguf",
-        "inference",
-        "llm",
-        "local-llm",
-        "long-context"
-      ],
-      "status": "검수 대기",
-      "collectedAt": "2026-11-27T09:02:14+09:00"
     },
     {
       "id": "openai-f8a4e02f42",
@@ -917,7 +1289,7 @@
       "published": "2026-11-22",
       "tag": "개발 도구",
       "description": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
-      "stars": 1341,
+      "stars": 1762,
       "language": "TypeScript",
       "topics": [
         "3d",
@@ -967,7 +1339,7 @@
       "published": "2026-11-22",
       "tag": "개발 도구",
       "description": "iOS simulators for AI agents, on Linux. The agent layer for x86Sim.",
-      "stars": 616,
+      "stars": 629,
       "language": "Rust",
       "topics": [
         "ai-agents",
@@ -1083,6 +1455,31 @@
       "collectedAt": "2026-11-22T08:46:48+09:00"
     },
     {
+      "id": "github-1ec22cb467",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "sresarehumantoo/ARTEX-CC",
+      "url": "https://github.com/sresarehumantoo/ARTEX-CC",
+      "published": "2026-11-22",
+      "tag": "개발 도구",
+      "description": "Autonomous penetration testing platform for Claude Code. 65 MCP tools, dual-graph architecture, multi-instance coordination, web UI, recording proxy, and evidence capture.",
+      "stars": 211,
+      "language": "Go",
+      "topics": [
+        "ai-security",
+        "autonomous-pentesting",
+        "claude-code",
+        "cybersecurity",
+        "golang",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-28T08:57:57+09:00"
+    },
+    {
       "id": "github-edf73d9048",
       "source": "GitHub",
       "sourceKey": "github",
@@ -1127,8 +1524,8 @@
       "url": "https://github.com/EL4CTEO/fast-anything",
       "published": "2026-11-21",
       "tag": "개발 도구",
-      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
-      "stars": 4228,
+      "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#, R.",
+      "stars": 4460,
       "language": "Rust",
       "topics": [
         "agent-skills",
@@ -1153,7 +1550,7 @@
       "published": "2026-11-21",
       "tag": "개발 도구",
       "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
-      "stars": 655,
+      "stars": 676,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -1289,6 +1686,31 @@
       ],
       "status": "검수 대기",
       "collectedAt": "2026-11-22T08:46:48+09:00"
+    },
+    {
+      "id": "github-ae2170bca5",
+      "source": "GitHub",
+      "sourceKey": "github",
+      "sourceType": "GitHub 인기 저장소",
+      "title": "Lingximo/Lysmor",
+      "url": "https://github.com/Lingximo/Lysmor",
+      "published": "2026-11-21",
+      "tag": "AI 활용",
+      "description": "Self-hostable AI companion system: long-term memory, emotion/physiology, multi-UI (chat / video call / life panel / memory mind-map / 3D room), and disaster-recovery backup.",
+      "stars": 58,
+      "language": "Python",
+      "topics": [
+        "ai-companion",
+        "astrbot",
+        "deepseek",
+        "live2d",
+        "llm",
+        "memory",
+        "python",
+        "self-hosted"
+      ],
+      "status": "검수 대기",
+      "collectedAt": "2026-11-28T08:57:57+09:00"
     },
     {
       "id": "github-a7b2127f0d",
